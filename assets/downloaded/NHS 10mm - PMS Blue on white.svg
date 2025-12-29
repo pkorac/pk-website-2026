@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="188.97333"
+   height="188.97333"
+   viewBox="0 0 188.97333 188.97333"
+   sodipodi:docname="NHS 10mm - PMS Blue on white.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="188.97333"
+       height="188.97333"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 365.668,864.563 V 592.438 H 1057.32 V 864.563 H 365.668"
+       style="fill:#005db9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,188.97333)" />
+    <path
+       id="path2"
+       d="M 1063.94,586.77 V 870.234 H 360 V 586.77 Z M 643.023,842.883 594.43,614.719 h -76.258 l -47.949,157.875 h -0.649 l -31.89,-157.875 h -57.832 l 48.984,228.164 h 76.516 l 47,-158.223 H 553 l 32.191,158.223 z m 218.118,0 -47.649,-228.164 h -61.41 l 20.371,97.722 h -72.637 l -20.367,-97.722 h -61.414 l 47.649,228.164 h 61.41 l -18.039,-87.289 h 72.593 l 18.082,87.289 z m 176.429,-6.227 -14.81,-45.426 c -11.82,5.54 -27.92,10.434 -50.576,10.434 -24.293,0 -44.02,-3.562 -44.02,-21.898 0,-32.332 89.036,-20.266 89.036,-89.563 0,-63.074 -58.825,-79.437 -112.04,-79.437 -23.648,0 -50.926,5.586 -70.945,11.808 l 14.453,46.418 c 12.129,-7.859 36.469,-13.097 56.492,-13.097 19.078,0 48.942,3.605 48.942,27.132 0,36.629 -89.036,22.891 -89.036,87.25 0,58.868 51.922,76.512 102.196,76.512 28.269,0 54.858,-2.961 70.308,-10.133"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0.13333333,0,0,-0.13333333,0,188.97333)" />
+  </g>
+</svg>
