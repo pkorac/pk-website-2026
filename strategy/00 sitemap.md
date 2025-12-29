@@ -13,7 +13,7 @@ Sitemap
       - [x] DevRev Agent Studio
       - [ ] Computer
 - Blog (writing)
-   - [ ] A year in review
+   - [x] A year in review
    - [ ] A Prototype is worth a thousand slides
    - [ ] Where brainstorms fail
 - [ ] AI Product sprint
