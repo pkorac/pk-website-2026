@@ -127,4 +127,4 @@ Using the AI product sprint methodology, we validated core assumptions quickly. 
 
 As I'm reflecting on the year and taking a bit of holidays in snowy Slovenia, I am excited about 2026.
 
-The plan: do more of what works: **prototype-led AI product development**, with guardrails from day one. If you're interested in learning more about my **7-week AI Product Sprint** or just want to geek out about RAG, agents, human-in-the-loop or how design is changing because of AI – let's talk.
+The plan: do more of what works: **prototype-led AI product design & development**, with guardrails from day one. If you're interested in learning more about my **7-week AI Product Sprint** or just want to geek out about RAG, agents, human-in-the-loop or how design is changing because of AI – let's talk.
