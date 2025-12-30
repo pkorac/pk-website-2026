@@ -1,6 +1,8 @@
-# AI Product Sprint – from idea to working alpha/MVP in 7 weeks
+# AI Product Sprint – from idea to working alpha/MVP in 8 weeks
 
 A focused, end-to-end sprint for teams who want to _ship something real_ – not spend a quarter debating what “AI strategy” means.
+
+## What you can expect
 
 You’ll work directly with me, typically alongside a small team from my Creative Crow collective. I lead the sprint and stay hands-on throughout, while bringing in trusted collaborators (product design and engineering/creative technology) to move quickly without cutting corners.
 
@@ -55,7 +57,7 @@ Depending on the project, we may also deliver:
 
 ## How it works
 
-The “7 weeks” aren’t seven identical weeks – it’s a sequence designed to reduce risk early and deliver value iteratively.
+The "8 weeks" aren't eight identical weeks – it's a sequence designed to reduce risk early and deliver value iteratively.
 
 You’ll work with a small team on our side (typically me as lead, plus a product designer and an engineer/creative technologist). We run weekly check-ins, plus a handful of collaborative sessions for alignment, critique, and decision-making.
 
@@ -67,11 +69,11 @@ We build a solid understanding of the problem, the business need, and the users 
 
 We sketch early concepts, align on the critical path, and set up the prototype foundation (tooling, hosting, repo, and deployment) so we can iterate quickly. You will have a link to a live prototype from this week on.
 
-### Weeks 3–6: Designing, prototyping, and testing
+### Weeks 3–7: Designing, prototyping, and testing
 
 We design, prototype, and test the key building blocks. This is where we turn “AI idea” into a product flow and pressure-test it with real scenarios and users.
 
-### Week 7: Documentation & next steps
+### Week 8: Documentation & next steps
 
 We consolidate what we’ve built and learned into a handover that your team can run with: product definition, prototype/alpha code repository, Figma designs + slides, evaluation plan, and a clear roadmap.
 
@@ -145,11 +147,11 @@ That’s valuable learning. The sprint is designed to fail fast and cheaply – 
 
 If the core AI approach hits a wall, we’ll pivot to alternative approaches or reframe the problem. You’ll still come away with a clear product definition, validated user insights, and a realistic roadmap based on what’s feasible with current technology.
 
-### Do you provide ongoing support after the 7 weeks?
+### Do you provide ongoing support after the 8 weeks?
 
 Typically, we hand over the prototype/alpha to your team with clear documentation, decision context, and next steps so you can move forward independently.
 
-Many teams benefit from periodic check-ins as they go from prototype to production – we can discuss light-touch advisory support during the sprint scoping call, but it’s not required to get value from the core 7-week sprint.
+Many teams benefit from periodic check-ins as they go from prototype to production – we can discuss light-touch advisory support during the sprint scoping call, but it's not required to get value from the core 8-week sprint.
 
 In some cases, we’ve also stayed on to help build and ship the production version. If that’s something you’re considering, we can talk through options and fit on the scoping call.
 
@@ -180,7 +182,7 @@ No. The sprint is a catalyst – it gives your team a clear product direction, w
 On the call we’ll:
 
 - map the opportunity and constraints
-- pick a viable, high-value slice for 7 weeks
+- pick a viable, high-value slice for 8 weeks
 - agree what “success” means
 - decide whether the sprint is the right fit
 

@@ -25,7 +25,7 @@ Umi isn't a solo coach. One of the unique features is its multiplayer first appr
 
 ## What we designed and built
 
-Over the engagAcross the engagement we produced a suite of prototypes that progressed from quick experiments to a demo-ready vision prototype used for stakeholder demos and testing:
+Across the engagement we produced a suite of prototypes that progressed from quick experiments to a demo-ready vision prototype used for stakeholder demos and testing:
 
 1. **Prototype vignettes and experiments**  
    Fast iterations to explore how an assistant could trigger real-world actions and adapt to context (e.g. lightweight voice agent tests, generative UI explorations, real-time data connections and inference) – used to validate feasibility and shape the interaction model.
@@ -33,8 +33,8 @@ Over the engagAcross the engagement we produced a suite of prototypes that progr
 2. **Visual and interaction prototypes**  
    Clickable flows to test key moments, define the interaction model, and explore the look and feel of the mobile experience.
 
-3. **End-to-end vision prototype (mobile app + real-time back-end data console)**  
-   A demo-grade mobile prototype featuring a context-aware conversational assistant and a dynamically adjusting home screen, paired with a back-end console that let us edit underlying family data in real time.  
+3. **Real-time mobile prototype with back-end data console**  
+   A mobile prototype featuring a context-aware conversational assistant and a dynamically adjusting home screen, paired with a back-end console that let us edit underlying family data in real time.  
    This was the centrepiece because it made the assistant feel “alive” and credible, not scripted.
 
 4. **Conversational onboarding prototype (profile inference)**  

@@ -36,7 +36,7 @@ Breaking down proposals into structured templates composed of reusable component
 
 ## What we designed and built
 
-- A console prototype allowing multiple assistants to fulfill tasks aided by AI
+- A fully functional console prototype that streamlined the entire todo fulfillment workflow – from customer request ingestion to final proposal delivery. The system could simulate real customer todos coming in, automatically trigger AI-powered research and initial proposal generation, then present structured drafts to human assistants for curation and refinement. This allowed assistants to focus on the high-value work of editing, personalizing, and perfecting proposals rather than starting from scratch with manual research.
 - A structured proposal model (templates with atoms & molecules) to standardise output and enable rapid iteration
 - Human-in-the-loop review steps (edit, approve, regenerate parts)
 - A comprehensive set of AI workflows and POCs demonstrating feasibility and capability of various different approaches (from search, to generation)
@@ -49,6 +49,8 @@ Breaking down proposals into structured templates composed of reusable component
 - Operational impact: fewer human hours per proposal meant human assistants could focus on higher-value tasks (curation, customer interaction)
 
 ## Timeline
+
+During the initial discovery phase, we created a plan identifying the key building blocks of functionality and design work. We then executed this plan by running design and prototyping in parallel, with each workstream informing the other.
 
 - Weeks 1-2: immersion in problem, challenge framing, workflow mapping, initial sketches
 - Weeks 3-4: data-model re-framing, validation with key stakeholders, alignment with engineering
