@@ -2,11 +2,11 @@
 
 A good prototype can illustrate product vision, prove technical feasibility, let you experience the journey, and evoke emotion through UI design and animation – all at once. A slide deck can usually only do one of these well before it starts diluting the narrative or disappearing into the weeds. Prototypes don’t just explain – they persuade.
 
-Building a prototype forces you to bridge the gap between idea and reality. You can put a “how might we” sentence on a slide – but in a prototype, it has to be answered. You might not get it right first time, but you’ll have already found _a_ way through the problem. And you’ll have something tangible to test straight away.
+Building a prototype also forces you to bridge the gap between concept and reality. You can put a “how might we” sentence on a slide – but in a prototype, it has to be answered. You might not get it right first time, but you’ll have already found _a_ way through the problem. And you’ll have something tangible to test straight away.
 
 ## Types and purposes of prototypes
 
-There are different reasons for building a prototype. Sometimes you’re proving something is technically possible. Other times you want to feel how a journey unfolds over time. Maybe you need alignment around a product vision across teams. Or you’re fine-tuning interactions and motion to make the experience feel genuinely “delightful”.
+There are different reasons for building a prototype. Sometimes you’re proving something is technically possible. Other times you want to experience how a journey flows over time. Maybe you need alignment around a product vision across teams. Or you’re fine-tuning interactions and motion to make the experience feel “delightful”.
 
 **You don’t always need a super high-fidelity, fully interactive prototype.**
 
@@ -48,23 +48,23 @@ I’m cautious about claims that these tools can ship production-ready apps. But
 
 ### Perfecting prototypes
 
-I’ve worked with quite a few teams where the urge was to keep polishing a prototype until it felt “finished”. That’s usually a trap – you're sacrificing learning for polish.
+Some teams have the urge to keep polishing a prototype for weeks until it feels "finished" instead of testing a cruder prototype with users. That's usually a trap – you're sacrificing learning for polish.
 
 Prototypes are meant to help you learn quickly. They can be rough. They can be thrown away once they’ve served their purpose. Perfecting a prototype often wastes time that could be better spent iterating, testing, and learning.
 
-A rough rule of thumb: if you’re no longer adding functional or learning value, and you’ve spent more than a week tweaking language or visuals, you’re probably not prototyping – you’re building a polished demo.
+A rough rule of thumb: if you’re no longer adding functional or learning value, and you’ve spent more than a week tweaking language or visuals, you’re probably not prototyping – you’re building a polished demo or the app itself.
 
 ### No onboarding or setup
 
-Often a tiny bit of framing can prevent hours of confusion. An intro screen that explains what the prototype is (and isn’t) can save you from derailed conversations and misaligned feedback.
+When sharing prototypes with others a bit of framing can prevent hours of confusion. An intro screen that explains what the prototype is (and isn’t) can set people up for success and save you from derailed conversations and misaligned feedback later on.
 
 If you’re testing the prototype as if it were a real app, a lightweight onboarding is also useful – not to gather loads of data, but to get the participant into the right mindset.
 
 ### Staying too low fidelity
 
-Some prototypes – especially vision prototypes – need to do more than “work”. They need to communicate confidence, taste, and coherence. Here you are building a polished demo and staying too low fidelity can undercut the point you’re trying to make.
+Some prototypes – especially vision prototypes – need to do more than “work”. They need to communicate confidence, taste, and coherence. Here you **are** building a polished demo and staying too low fidelity can undercut the point you’re trying to make.
 
-## Benefits of slide decks over prototypes
+## Where slide decks win over prototypes
 
 Slide decks can frame a story and control a narrative far better than a prototype. I’ll almost always start client check-ins with a few slides to set context:
 
@@ -81,8 +81,8 @@ And yes: slides are easier to share in the long run. A PDF survives time, inboxe
 
 ## Outro
 
-I’m not anti-slides. Slides are great for framing a conversation, storytelling, and making sure we’re solving the right problem for the right reasons.
+I’m a big fan of storytelling with slides. Slides are great for framing a conversation, crafting the narrative, and making sure we’re solving the right problem for the right reasons.
 
 But when the goal is to make a decision – fund this, prioritise that, commit a team, change direction – a prototype does something slides can’t. It collapses the distance between “what we mean” and “what it feels like”. It turns imagining ideas into reacting, and debating them with tangible evidence.
 
-And the nice thing is you don’t need the perfect brief to get there. If you’re not sure what to request, ask for "something I can click".
+And the nice thing is you don’t need the perfect brief to get there. If you’re a stakeholder not sure what to request from a design team, ask for "something I can click".
