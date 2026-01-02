@@ -1,5 +1,3 @@
-> what have I learned in each of these? what's interesting for the reader
-
 # 2025: The year of building
 
 2025 was a proper roller coaster. It started quite depressingly with Normally going insolvent and ended on a super high – I prototpyed and shipped more than I thought was remotely sensible – agents, children's finance, evidence platform, AI in drug discovery, and government trust work.
@@ -36,7 +34,7 @@ One tidbit that stuck with me: privacy isn’t only about people, but can be abo
 
 ### Sencillo
 
-I got involved in a finance startup Sencillo as a product lead. Sencillo helps parents plan and pay for their children's education. My long-time friend Adam Amos has just raised over £350k in seed funding and is gearing up for a launch in early 2026. We worked on defining the product strategy, UX of the product and the MVP.
+I got involved in a finance startup Sencillo as a product lead. Sencillo helps parents plan and pay for their children's education. My long-time friend Adam Amos has just raised a seed round and is gearing up for a launch in early 2026. We worked on defining the product strategy, UX of the product and the MVP.
 
 One of the key challenges for us was to blend:
 

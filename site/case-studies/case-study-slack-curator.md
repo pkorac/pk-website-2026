@@ -10,7 +10,7 @@ A two-week internal tool that transformed a noisy "inspiration" Slack channel in
 - **Format:** 2-week design and build sprint
 - **My role:** product + prototyping lead
 - **Team:** 2 people (me + 1 creative technologist)
-- **Shipped:** Slack Curator – an internal product tool (web app) with automated ingestion that collects, ranks, and curates posts into a weekly digest
+- **Shipped:** Slack Curator – an internal Slack integration with automated ingestion that collects, ranks, and curates posts into a weekly digest
 
 ## The problem
 
