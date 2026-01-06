@@ -32,7 +32,15 @@ One tidbit that stuck with me: privacy isn’t only about people, but can be abo
 
 **What I learned:** “privacy by design” applies to the physical world too – and it gets complicated fast.
 
-### Sencillo
+### Indeximate – Preventing subsea power cable failure
+
+Working with the brilliant team at AndJump agency, I helped design the MVP for Indeximate – using AI and sensors to predict failures in subsea power cables before they happen.
+
+Initially, I assumed we'd need a classic dashboard with maps embedded in frames or modals. But prototyping revealed something better: **map-first navigation**. Everything became an interactive map, with detailed information surfacing in contextual modals. For infrastructure monitoring, geography isn't just context – it's the primary interface.
+
+**What I learned:** don't assume traditional dashboard patterns work for every domain – sometimes the "secondary" interface element should become primary.
+
+### Sencillo – Children's education finance
 
 I got involved in a finance startup Sencillo as a product lead. Sencillo helps parents plan and pay for their children's education. My long-time friend Adam Amos has just raised a seed round and is gearing up for a launch in early 2026. We worked on defining the product strategy, UX of the product and the MVP.
 

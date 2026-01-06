@@ -48,7 +48,7 @@ Typical outputs include:
 
 Depending on the project, we may also deliver:
 
-- a focused, AI-tailored **design system**
+- a simple, AI-tailored **design system**
 - a lightweight **data readiness assessment**
 - a **tooling / architecture recommendation** for the MVP phase (vendor-neutral)
 - a short **exec-ready narrative deck** (short, crisp, decision-focused)

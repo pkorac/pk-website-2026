@@ -9,14 +9,14 @@ Product and tech leader helping organisations design and build AI-powered produc
 
 A few selected projects that show how I work – outcome-first, prototype-led, and designed for real constraints.
 
-### Yohana – Concierge Console
+### AI-Powered Concierge console
 
 **3.5 days → ~2 minutes** for proposal creation by restructuring the workflow around a proposal model (“atoms” and “molecules”).  
 [Read case study]
 
-### Panasonic Well – Umi Family Assistant
+### Family wellness assistant
 
-A real-time vision prototype of a context-aware family assistant – mobile experience + live back-end console for demos, alignment, and testing.  
+A real-time vision prototype of a context-aware family assistant – mobile experience + live back-end console for demos, alignment, and testing.
 [Read case study]
 
 ### Centre for Homelessness Impact – Enhanced Evidence Platform
@@ -33,7 +33,7 @@ Behaviour design in practice: a learning habits app designed for reflection and 
 
 AI Product Sprint is the methodology I’ve refined over several years across real projects to help teams strategically design and build an AI product quickly – without falling into “design theatre”.
 
-**In 7 weeks, you’ll have:**
+**In 8 weeks, you’ll have:**
 
 - A working **alpha/MVP prototype** (demo-ready, testable, not slideware)
 - A clear **interaction & governance model** (what the AI does, when, and how humans stay in control)
@@ -58,16 +58,10 @@ Book a sprint call
 
 Notes on building AI products that people can trust and actually use.
 
-## Ways to work with me
+[Read the blog]
 
-### 1) 7-week AI Product Sprint
+## About
 
-Best when you need a working alpha fast, stakeholder alignment, and a clear path to shipping.
+From scattered AI ideas to working products – here's how I work and why it works.
 
-[Book a sprint call]
-
-### 2) Product/tech leadership
-
-Leadership for teams shipping AI products and needing hands-on direction across design and engineering.
-
-[Get in touch]
+[How I work]
