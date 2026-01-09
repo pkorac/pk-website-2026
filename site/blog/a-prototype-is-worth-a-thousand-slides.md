@@ -86,3 +86,13 @@ I’m a big fan of storytelling with slides. Slides are great for framing a conv
 But when the goal is to make a decision – fund this, prioritise that, commit a team, change direction – a prototype does something slides can’t. It collapses the distance between “what we mean” and “what it feels like”. It turns imagining ideas into reacting, and debating them with tangible evidence.
 
 And the nice thing is you don’t need the perfect brief to get there. If you’re a stakeholder not sure what to request from a design team, ask for "something I can click".
+
+---
+
+# Socials
+
+I think we’re entering a slightly weird era where slide decks are becoming… less useful.
+
+Not because strategy doesn’t matter – but because AI products only reveal their truth when you can use them.
+
+In 2025 I prototyped and shipped across agents, children’s finance, drug discovery UX, government trust work, and an AI evidence platform. The consistent pattern:

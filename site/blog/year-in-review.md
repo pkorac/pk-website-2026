@@ -1,6 +1,6 @@
 # 2025: The year of building
 
-2025 was a proper roller coaster. It started quite depressingly with Normally going insolvent and ended on a super high – I prototpyed and shipped more than I thought was remotely sensible – agents, children's finance, evidence platform, AI in drug discovery, and government trust work.
+2025 was a proper roller coaster. It started quite depressingly with Normally going insolvent and ended on a super high – I prototyped and shipped more than I thought was remotely possible – agents, children's finance, evidence platform, AI in drug discovery, and government trust work.
 
 The thread through all of it: **A prototype is worth a thousand slides and AI is only valuable when it’s usable, trustworthy, and testable**.
 
@@ -134,3 +134,21 @@ Using the AI product sprint methodology, we validated core assumptions quickly. 
 As I'm reflecting on the year and taking a bit of holidays in snowy Slovenia, I am excited about 2026.
 
 The plan: do more of what works: **prototype-led AI product design & development**, with guardrails from day one. If you're interested in learning more about my **7-week AI Product Sprint** or just want to geek out about RAG, agents, human-in-the-loop or how design is changing because of AI – let's talk.
+
+---
+
+# Socials
+
+## Linkedin
+
+2025: The year of building
+
+2025 was a proper roller coaster. It started quite depressingly with Normally going insolvent and ended on a super high – I designed, prototpyed and shipped more than I thought was remotely possible – enterprise AI agents, children's finance, evidence platform, AI in drug discovery, AI in deep-sea cables, and government trust work.
+
+Somewhere in the middle I re-learned something I keep bumping into with my work: A prototype is worth a thousand slides – and AI is only valuable when it’s usable, trustworthy, and testable.
+
+Read my full Year in Review (with the project visuals + what I learned from each) here: https://www.peterkoraca.com/blog/2025-the-year-of-building
+
+I worked with some absolutely amazing people including
+
+Thank you all for making 2025 awesome 🙌
