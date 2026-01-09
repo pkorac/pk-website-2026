@@ -51,6 +51,14 @@ One of the key challenges for us was to blend:
 
 **What I learned:** the best fintech products harness emotion, but protect users from acting on it impulsively.
 
+### Teaching prototyping module for Flipside
+
+I taught the prototyping module for [Flipside](https://www.anewdirection.org.uk/programmes/flipside) – a 3-month digital design programme that helps young people (19-30) break into careers in digital product design. The programme is run by A New Direction and delivered by leading agencies including ustwo, Made by Many, BYND, and Designit…and me.
+
+My module focused on rapid prototyping techniques – teaching participants how to quickly validate ideas, test assumptions, and communicate concepts through interactive prototypes rather than static designs. We covered everything from one-pagers to click-thrugs and fully interactive prototypes, with an emphasis on testing with real users early and often.
+
+**What I learned:** teaching prototyping to newcomers reminded me that the best prototypes aren't the most polished ones – they're the ones that answer the right questions fastest.
+
 ### Deep Mirror – AI in drug discovery
 
 I defined DeepMirror's UX design strategy to support their AI product scale in depth and breadth. In simplified terms: DeepMirror simulate how (drug) molecules might behave against (disease) targets and how they might affect your human body. They can predict the various biometrics, bonds, and generate new molecules that might be more effective. All powered by AI.
